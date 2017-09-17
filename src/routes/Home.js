@@ -23,8 +23,8 @@ class Home extends Component {
           <p className="App-intro">
           Clone the repo to Get Started
           <li className="steps">$ git clone http://github.com/sujaykundu777/react-router-demo.git </li>
-          <li className="steps">cd react-router-demo </li>
-          <li className="steps">yarn start </li>
+          <li className="steps">$ cd react-router-demo </li>
+          <li className="steps">$ yarn start </li>
         </p>
         </div>
     

@@ -18,7 +18,7 @@ class Contact extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Contact </h2>
           <p className="App-intro">
-          Clone the repo to Get Started
+           You can contact me via Email at : sujaykundu777@gmail.com
         </p>
         </div>
         

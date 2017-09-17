@@ -17,12 +17,13 @@ class Portfolio extends Component {
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Portfolio</h2>
-        </div>
-        <p className="App-intro">
-          Clone the repo to Get Started
-           
+          <p className="App-intro">
+            
+          Where you can add some of your projects !
         
         </p>
+        </div>
+       
       
       </div>
     );
